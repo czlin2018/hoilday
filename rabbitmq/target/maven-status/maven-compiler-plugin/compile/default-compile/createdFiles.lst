@@ -1,0 +1,5 @@
+com/czl/rabbitmq/config/TopicRabbitConfig.class
+com/czl/rabbitmq/config/DirectRabbitConfig.class
+com/czl/rabbitmq/api/MqController.class
+com/czl/rabbitmq/config/FanoutRabbitConfig.class
+com/czl/rabbitmq/RabbitmqApplication.class

@@ -1,0 +1,40 @@
+#端口号
+server:
+  port: 8082
+  servlet:
+    context-path: /business
+
+#服务名
+spring:
+  application:
+    name: business
+  #配置rabbitMq 服务器
+  rabbitmq:
+    host: 123.57.76.15
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /
+  #数据库
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://123.57.76.15:3306/hongyouyou?useAffectedRows=true&serverTimezone=Asia/Shanghai&useUnicode=true&useSSL=false&autoReconnect=true&characterEncoding=UTF-8&allowMultiQueries=true&rewriteBatchedStatements=true
+    username: root
+    password: root
+
+
+
+#eureka
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/   # 指定注册中心的地址
+  instance:
+    preferIpAddress: true
+
+
+
+logging:
+  level:
+    com.czl.business: debug
+

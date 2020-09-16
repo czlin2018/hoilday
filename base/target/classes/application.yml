@@ -1,0 +1,16 @@
+server:
+  port: 8082
+spring:
+  #配置rabbitMq 服务器
+  rabbitmq:
+    host: 123.57.76.15
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /
+
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://123.57.76.15:3306/hongyouyou?useAffectedRows=true&serverTimezone=Asia/Shanghai&useUnicode=true&useSSL=false&autoReconnect=true&characterEncoding=UTF-8&allowMultiQueries=true&rewriteBatchedStatements=true
+    username: root
+    password: root

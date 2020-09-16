@@ -1,0 +1,31 @@
+#端口号
+server:
+  port: 8081
+
+#服务名
+spring:
+  application:
+    name: rabbitmq
+  #配置rabbitMq 服务器
+  rabbitmq:
+    host: 123.57.76.15
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /
+
+#eureka
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/   # 指定注册中心的地址
+  instance:
+    preferIpAddress: true
+
+
+
+logging:
+  level:
+    com.czl.rabbitmq: debug
+
+

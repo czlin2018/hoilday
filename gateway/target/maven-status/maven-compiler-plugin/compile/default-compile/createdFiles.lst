@@ -1,0 +1,4 @@
+com/czl/gateway/dto/UserDTO.class
+com/czl/gateway/controller/UserController.class
+com/czl/gateway/GatewayApplication.class
+com/czl/gateway/feign/PrivilegesFeign.class

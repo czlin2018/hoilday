@@ -1,0 +1,5 @@
+/Users/czlin/code/hongyouyou/rabbitmq/src/main/java/com/czl/rabbitmq/config/TopicRabbitConfig.java
+/Users/czlin/code/hongyouyou/rabbitmq/src/main/java/com/czl/rabbitmq/RabbitmqApplication.java
+/Users/czlin/code/hongyouyou/rabbitmq/src/main/java/com/czl/rabbitmq/api/MqController.java
+/Users/czlin/code/hongyouyou/rabbitmq/src/main/java/com/czl/rabbitmq/config/DirectRabbitConfig.java
+/Users/czlin/code/hongyouyou/rabbitmq/src/main/java/com/czl/rabbitmq/config/FanoutRabbitConfig.java

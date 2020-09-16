@@ -1,0 +1,12 @@
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/mapper/IdGeneratorMapper.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/request/PageRequestDTO.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/response/ApiResponse.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/response/enums/ApiResponseEnum.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/BaseApplication.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/idprodect/SnowFlakeId.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/request/ValidatorInterceptor.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/idprodect/DbId.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/entity/IdGenerator.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/util/BeanCopyUtil.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/request/BizException.java
+/Users/czlin/code/hongyouyou/base/src/main/java/com/czl/base/response/enums/ApiBaseEnum.java
